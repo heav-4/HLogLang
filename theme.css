@@ -1,0 +1,45 @@
+body {
+    background-color:rgb(2,1,43);
+    color:#CCC;
+    width:auto;
+    max-width:80ch;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:"SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size:1.5rem;
+    line-height:1.6;
+}
+lime {
+    color:lime;
+}
+green {
+    color:green;
+    font-weight:bold;
+}
+magenta {
+    color:magenta;
+    font-weight:bold;
+}
+st {
+    color:#cc9933;
+    font-weight:bold;
+}
+tv {
+    color:#2050FF;
+    font-weight:bold;
+}
+c {
+    color: lime;
+    font-weight:bold;
+}
+
+cm {
+    color: #FFFF60;
+    font-weight:bold;
+}
+unl {
+    text-decoration: underline; 
+}
+hr {
+    color: purple;
+}
